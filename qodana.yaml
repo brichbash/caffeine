@@ -35,4 +35,4 @@ exclude:
   - name: UnsatisfiedRange
   - name: UnstableApiUsage
   - name: WhileLoopSpinsOnField
-projectJDK: 11
+projectJDK: temurin-11
