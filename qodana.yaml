@@ -34,3 +34,4 @@ exclude:
   - name: UnsatisfiedRange
   - name: UnstableApiUsage
   - name: WhileLoopSpinsOnField
+  # trigger Qodana
